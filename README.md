@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RWArmor: Ransomware Detection System
 
 RWArmor is a static-informed dynamic analysis approach for early detection of cryptographic Windows ransomware, based on the research paper "RWArmor: a static-informed dynamic analysis approach for early detection of cryptographic windows ransomware".
@@ -149,3 +150,6 @@ The current implementation provides a framework for ransomware detection. For pr
 ## License
 
 This project is available under the MIT License.
+=======
+# EDR-Ransomware
+>>>>>>> 98f65ee9d5e2b1ce06af580f781db71f4e69b49a
